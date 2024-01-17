@@ -1,4 +1,4 @@
-Zano-Node-Util
+Nirmata-Node-Util
 ====================
 
 Based on: https://github.com/Snipa22/node-cryptonote-util 
