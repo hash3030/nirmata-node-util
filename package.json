@@ -1,5 +1,5 @@
 {
-    "name": "zano-util",
+    "name": "nirmata-util",
     "version": "0.0.1",
     "main": "cryptonote",
     "author": {
@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/hyle-team/zano-node-util.git"
+        "url": "https://github.com/vanthoi/nirmata-node-util.git"
     },
     "dependencies": {
         "bindings": "*",
