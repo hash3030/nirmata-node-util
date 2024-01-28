@@ -25,7 +25,6 @@ using namespace epee;
 #include "currency_format_utils.h"
 #include "verification_context.h"
 #include "crypto/hash.h"
-#include "common/boost_serialization_helper.h"
 #include "currency_protocol/currency_protocol_handler_common.h"
 
 namespace currency
