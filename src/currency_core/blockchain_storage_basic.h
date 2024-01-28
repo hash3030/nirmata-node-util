@@ -12,6 +12,10 @@
 
 #include <boost/interprocess/sync/named_mutex.hpp>
 
+#if BOOST_VERSION >= 107400
+#include <boost/serialization/library_version_type.hpp>
+#endif
+
 #include <boost/serialization/serialization.hpp>
 #include <boost/serialization/version.hpp>
 #include <boost/serialization/list.hpp>
